@@ -1,0 +1,97 @@
+[INFO] 2025/03/03 08:50:56 logger.go:33: 2025-03-03 08:50:56 [INFO] Initializing database connection...
+[ERROR] 2025/03/03 08:50:56 logger.go:43: 2025-03-03 08:50:56 [ERROR] Database connection failed: Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[INFO] 2025/03/03 08:51:30 logger.go:33: 2025-03-03 08:51:30 [INFO] Initializing database connection...
+[ERROR] 2025/03/03 08:51:30 logger.go:43: 2025-03-03 08:51:30 [ERROR] Database connection failed: Error 1049 (42000): Unknown database 'mydatabase'
+[INFO] 2025/03/03 08:53:10 logger.go:33: 2025-03-03 08:53:10 [INFO] Initializing database connection...
+[INFO] 2025/03/03 08:53:10 logger.go:33: 2025-03-03 08:53:10 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 08:53:10 logger.go:33: 2025-03-03 08:53:10 [INFO] Database migration completed!
+[INFO] 2025/03/03 08:57:21 logger.go:33: 2025-03-03 08:57:21 [INFO] Initializing database connection...
+[INFO] 2025/03/03 08:57:21 logger.go:33: 2025-03-03 08:57:21 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 08:57:21 logger.go:33: 2025-03-03 08:57:21 [INFO] Database migration completed!
+[INFO] 2025/03/03 08:59:29 logger.go:33: 2025-03-03 08:59:29 [INFO] Initializing database connection...
+[INFO] 2025/03/03 08:59:29 logger.go:33: 2025-03-03 08:59:29 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 08:59:29 logger.go:33: 2025-03-03 08:59:29 [INFO] Database migration completed!
+[INFO] 2025/03/03 09:00:26 logger.go:33: 2025-03-03 09:00:26 [INFO] Initializing database connection...
+[INFO] 2025/03/03 09:00:26 logger.go:33: 2025-03-03 09:00:26 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 09:00:26 logger.go:33: 2025-03-03 09:00:26 [INFO] Database migration completed!
+[INFO] 2025/03/03 09:07:24 logger.go:33: 2025-03-03 09:07:24 [INFO] Initializing database connection...
+[INFO] 2025/03/03 09:07:24 logger.go:33: 2025-03-03 09:07:24 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 09:07:24 logger.go:33: 2025-03-03 09:07:24 [INFO] Database migration completed!
+[INFO] 2025/03/03 09:11:31 logger.go:33: 2025-03-03 09:11:31 [INFO] Initializing database connection...
+[INFO] 2025/03/03 09:11:31 logger.go:33: 2025-03-03 09:11:31 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 09:11:31 logger.go:33: 2025-03-03 09:11:31 [INFO] Database migration completed!
+[INFO] 2025/03/03 09:13:35 logger.go:33: 2025-03-03 09:13:35 [INFO] Initializing database connection...
+[INFO] 2025/03/03 09:13:35 logger.go:33: 2025-03-03 09:13:35 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 09:13:35 logger.go:33: 2025-03-03 09:13:35 [INFO] Database migration completed!
+[INFO] 2025/03/03 09:21:42 logger.go:33: 2025-03-03 09:21:42 [INFO] Initializing database connection...
+[INFO] 2025/03/03 09:21:42 logger.go:33: 2025-03-03 09:21:42 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 09:21:42 logger.go:33: 2025-03-03 09:21:42 [INFO] Database migration completed!
+[INFO] 2025/03/03 09:30:27 logger.go:33: 2025-03-03 09:30:27 [INFO] Initializing database connection...
+[INFO] 2025/03/03 09:30:27 logger.go:33: 2025-03-03 09:30:27 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 09:30:27 logger.go:33: 2025-03-03 09:30:27 [INFO] Database migration completed!
+[INFO] 2025/03/03 09:31:42 logger.go:33: 2025-03-03 09:31:42 [INFO] Initializing database connection...
+[INFO] 2025/03/03 09:31:43 logger.go:33: 2025-03-03 09:31:43 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 09:31:43 logger.go:33: 2025-03-03 09:31:43 [INFO] Database migration completed!
+[INFO] 2025/03/03 09:32:57 logger.go:33: 2025-03-03 09:32:57 [INFO] Initializing database connection...
+[INFO] 2025/03/03 09:32:57 logger.go:33: 2025-03-03 09:32:57 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 09:32:57 logger.go:33: 2025-03-03 09:32:57 [INFO] Database migration completed!
+[INFO] 2025/03/03 09:33:45 logger.go:33: 2025-03-03 09:33:45 [INFO] JWT Middleware: Checking Authorization header
+[ERROR] 2025/03/03 09:33:45 logger.go:43: 2025-03-03 09:33:45 [ERROR] JWT Middleware: Invalid or expired token - invalid token
+[INFO] 2025/03/03 09:34:16 logger.go:33: 2025-03-03 09:34:16 [INFO] JWT Middleware: Checking Authorization header
+[INFO] 2025/03/03 09:34:16 logger.go:33: 2025-03-03 09:34:16 [INFO] JWT Middleware: Authentication successful for userID: 1
+[INFO] 2025/03/03 09:44:23 logger.go:33: 2025-03-03 09:44:23 [INFO] Initializing database connection...
+[INFO] 2025/03/03 09:44:23 logger.go:33: 2025-03-03 09:44:23 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 09:44:23 logger.go:33: 2025-03-03 09:44:23 [INFO] Database migration completed!
+[INFO] 2025/03/03 09:45:17 logger.go:33: 2025-03-03 09:45:17 [INFO] Initializing database connection...
+[INFO] 2025/03/03 09:45:17 logger.go:33: 2025-03-03 09:45:17 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 09:45:17 logger.go:33: 2025-03-03 09:45:17 [INFO] Database migration completed!
+[INFO] 2025/03/03 09:49:36 logger.go:33: 2025-03-03 09:49:36 [INFO] Initializing database connection...
+[INFO] 2025/03/03 09:49:36 logger.go:33: 2025-03-03 09:49:36 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 09:49:36 logger.go:33: 2025-03-03 09:49:36 [INFO] Database migration completed!
+[INFO] 2025/03/03 09:50:24 logger.go:33: 2025-03-03 09:50:24 [INFO] Initializing database connection...
+[INFO] 2025/03/03 09:50:24 logger.go:33: 2025-03-03 09:50:24 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 09:50:24 logger.go:33: 2025-03-03 09:50:24 [INFO] Database migration completed!
+[INFO] 2025/03/03 09:51:53 logger.go:33: 2025-03-03 09:51:53 [INFO] Initializing database connection...
+[INFO] 2025/03/03 09:51:53 logger.go:33: 2025-03-03 09:51:53 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 09:51:53 logger.go:33: 2025-03-03 09:51:53 [INFO] Database migration completed!
+[INFO] 2025/03/03 09:53:05 logger.go:33: 2025-03-03 09:53:05 [INFO] Initializing database connection...
+[INFO] 2025/03/03 09:53:05 logger.go:33: 2025-03-03 09:53:05 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 09:53:05 logger.go:33: 2025-03-03 09:53:05 [INFO] Database migration completed!
+[INFO] 2025/03/03 11:35:09 logger.go:33: 2025-03-03 11:35:09 [INFO] Initializing database connection...
+[INFO] 2025/03/03 11:35:09 logger.go:33: 2025-03-03 11:35:09 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 11:35:09 logger.go:33: 2025-03-03 11:35:09 [INFO] Database migration completed!
+[INFO] 2025/03/03 11:39:18 logger.go:33: 2025-03-03 11:39:18 [INFO] Initializing database connection...
+[INFO] 2025/03/03 11:39:18 logger.go:33: 2025-03-03 11:39:18 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 11:39:18 logger.go:33: 2025-03-03 11:39:18 [INFO] Database migration completed!
+[INFO] 2025/03/03 11:41:38 logger.go:33: 2025-03-03 11:41:38 [INFO] Initializing database connection...
+[INFO] 2025/03/03 11:41:38 logger.go:33: 2025-03-03 11:41:38 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 11:41:38 logger.go:33: 2025-03-03 11:41:38 [INFO] Database migration completed!
+[INFO] 2025/03/03 11:43:21 logger.go:33: 2025-03-03 11:43:21 [INFO] JWT Middleware: Checking Authorization header
+[INFO] 2025/03/03 11:43:21 logger.go:33: 2025-03-03 11:43:21 [INFO] JWT Middleware: Authentication successful for userID: 2
+[INFO] 2025/03/03 12:18:44 logger.go:33: 2025-03-03 12:18:44 [INFO] Initializing database connection...
+[INFO] 2025/03/03 12:18:44 logger.go:33: 2025-03-03 12:18:44 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 12:18:44 logger.go:33: 2025-03-03 12:18:44 [INFO] Database migration completed!
+[INFO] 2025/03/03 12:19:25 logger.go:33: 2025-03-03 12:19:25 [INFO] Initializing database connection...
+[INFO] 2025/03/03 12:19:25 logger.go:33: 2025-03-03 12:19:25 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 12:19:25 logger.go:33: 2025-03-03 12:19:25 [INFO] Database migration completed!
+[INFO] 2025/03/03 12:42:01 logger.go:33: 2025-03-03 12:42:01 [INFO] Initializing database connection...
+[INFO] 2025/03/03 12:42:01 logger.go:33: 2025-03-03 12:42:01 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 12:42:01 logger.go:33: 2025-03-03 12:42:01 [INFO] Database migration completed!
+[INFO] 2025/03/03 12:43:16 logger.go:33: 2025-03-03 12:43:16 [INFO] JWT Middleware: Checking Authorization header
+[INFO] 2025/03/03 12:43:16 logger.go:33: 2025-03-03 12:43:16 [INFO] JWT Middleware: Authentication successful for userID: 2
+[INFO] 2025/03/03 12:43:46 logger.go:33: 2025-03-03 12:43:46 [INFO] JWT Middleware: Checking Authorization header
+[INFO] 2025/03/03 12:43:46 logger.go:33: 2025-03-03 12:43:46 [INFO] JWT Middleware: Authentication successful for userID: 2
+[INFO] 2025/03/03 12:44:31 logger.go:33: 2025-03-03 12:44:31 [INFO] JWT Middleware: Checking Authorization header
+[INFO] 2025/03/03 12:44:31 logger.go:33: 2025-03-03 12:44:31 [INFO] JWT Middleware: Authentication successful for userID: 2
+[INFO] 2025/03/03 12:46:56 logger.go:33: 2025-03-03 12:46:56 [INFO] Initializing database connection...
+[INFO] 2025/03/03 12:46:56 logger.go:33: 2025-03-03 12:46:56 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 12:46:56 logger.go:33: 2025-03-03 12:46:56 [INFO] Database migration completed!
+[INFO] 2025/03/03 12:47:16 logger.go:33: 2025-03-03 12:47:16 [INFO] JWT Middleware: Checking Authorization header
+[WARNING] 2025/03/03 12:47:16 logger.go:38: 2025-03-03 12:47:16 [WARNING] JWT Middleware: Invalid authorization format
+[INFO] 2025/03/03 12:47:35 logger.go:33: 2025-03-03 12:47:35 [INFO] JWT Middleware: Checking Authorization header
+[INFO] 2025/03/03 12:47:35 logger.go:33: 2025-03-03 12:47:35 [INFO] JWT Middleware: Authentication successful for userID: 2
+[INFO] 2025/03/03 12:48:04 logger.go:33: 2025-03-03 12:48:04 [INFO] JWT Middleware: Checking Authorization header
+[INFO] 2025/03/03 12:48:04 logger.go:33: 2025-03-03 12:48:04 [INFO] JWT Middleware: Authentication successful for userID: 2
+[INFO] 2025/03/03 12:48:59 logger.go:33: 2025-03-03 12:48:59 [INFO] Initializing database connection...
+[INFO] 2025/03/03 12:48:59 logger.go:33: 2025-03-03 12:48:59 [INFO] Connected to MySQL database successfully!
+[INFO] 2025/03/03 12:48:59 logger.go:33: 2025-03-03 12:48:59 [INFO] Database migration completed!
